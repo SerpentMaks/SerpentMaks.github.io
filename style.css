@@ -337,8 +337,12 @@ main.pers{
         align-items: center;
     }
 
-    .bode {
-        margin: 10;
+    .container {
+   
+    width: 80%;
+    }
+    .container-2 {
+         width: 80%;
     }
     .product {
         max-width: 80%;
